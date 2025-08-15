@@ -1,4 +1,4 @@
-<!-- Typing Intro -->
+
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=2500&pause=999999&color=00C7B7&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Divya+Darsini+S)](https://git.io/typing-svg)
 ---
@@ -7,7 +7,7 @@
 
 🎓 **Final Year B.Tech IT Student** | 💻 **Full-Stack Developer**  
 🌱 Currently exploring **React, Node.js, and New Frameworks**  
-🚀 Participated in **Smart India Hackathon**  
+🚀 Participated in **Smart India Hackathon 2024**  
 🎨 Love creating clean, responsive, and user-friendly websites  
 ⚡ Fun fact: *I enjoy turning ideas into code, and bugs into learning opportunities*  
 
@@ -40,6 +40,7 @@
 <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/> 
 <img height="50" src="https://img.icons8.com/officel/80/java-eclipse.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" src="https://img.icons8.com/color/48/google-colab.png"/>
 </p>
 
 ---
